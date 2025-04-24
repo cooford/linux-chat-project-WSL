@@ -60,7 +60,7 @@ int main() {
                 break;
             }
             buffer[bytes] = '\0';
-            printf("[chats] %s\n", buffer);
+            printf("[chats] %s\n", buffer);//print
         }
     }
 
